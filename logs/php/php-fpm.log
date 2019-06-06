@@ -10,3 +10,7 @@
 [06-Jun-2019 21:43:23] NOTICE: ready to handle connections
 [06-Jun-2019 21:48:27] NOTICE: fpm is running, pid 51
 [06-Jun-2019 21:48:27] NOTICE: ready to handle connections
+[06-Jun-2019 21:59:03] NOTICE: Terminating ...
+[06-Jun-2019 21:59:03] NOTICE: exiting, bye-bye!
+[06-Jun-2019 21:59:13] NOTICE: fpm is running, pid 56
+[06-Jun-2019 21:59:13] NOTICE: ready to handle connections
